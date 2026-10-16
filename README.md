@@ -37,7 +37,7 @@ The original PairDrop project is an open-source, AirDrop-inspired file-sharing s
 If PairDrop uses or modifies code from the original project, preserve the applicable licence terms and copyright notices. Consult the original repository's licence before redistributing modified code.
 
 ## 📜 Licence
-See the repository's `LICENSE` file for the licence applicable to this version of PairDrop. If this project is derived from the original PairDrop source code, ensure that its licence obligations are followed.
+See the repository's `LICENSE.txt` file for the licence applicable to this version of PairDrop. If this project is derived from the original PairDrop source code, ensure that its licence obligations are followed.
 
 ## ❤️ Acknowledgements
 Built with appreciation for the open-source community and developers working to make file sharing between devices simpler.
