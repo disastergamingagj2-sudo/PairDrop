@@ -1,4 +1,4 @@
-# PairDrop
+# [Pairdrop](AppIcon.png)
 
 **Simple. Fast. Seamless. File sharing across your devices.**
 
